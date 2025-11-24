@@ -7,7 +7,7 @@
 
 ---
 
-## 📘 Course Information
+## Course Information
 
 - **Course Code:** TDB2043  
 - **Course Title:** Operating Systems  
@@ -17,7 +17,7 @@
 
 ---
 
-## 👥 Group Members
+## Group Members
 
 | No. | Name                  | Student ID | Course              |
 |:---:|-----------------------|-----------:|---------------------|
